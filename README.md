@@ -101,6 +101,6 @@ else:
 ## OUTPUT:
 ![Screenshot 2025-05-21 215333](https://github.com/user-attachments/assets/b6441666-e78b-453f-80bd-d566ecc1c4c2)
 
-##RESULT:
+## RESULT:
 thus the given objective of face detection is done sucessfully.
 
